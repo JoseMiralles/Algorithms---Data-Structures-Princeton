@@ -1,0 +1,14 @@
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\Testing\bin\Debug\Testing.dll
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\Testing\bin\Debug\Testing.pdb
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\Testing\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\Testing\obj\Debug\Testing.dll
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\Testing\obj\Debug\Testing.pdb
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Testing\bin\Debug\Testing.dll
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Testing\bin\Debug\Testing.pdb
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Testing\bin\Debug\Algorithms.dll
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Testing\bin\Debug\Algorithms.pdb
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Testing\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Testing\obj\Debug\Testing.dll
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Testing\obj\Debug\Testing.pdb

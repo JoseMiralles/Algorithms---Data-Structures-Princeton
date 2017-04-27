@@ -1,0 +1,5 @@
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\DataStructures\bin\Debug\DataStructures.dll
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\DataStructures\bin\Debug\DataStructures.pdb
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\DataStructures\obj\Debug\DataStructures.dll
+c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\DataStructures\obj\Debug\DataStructures.pdb
