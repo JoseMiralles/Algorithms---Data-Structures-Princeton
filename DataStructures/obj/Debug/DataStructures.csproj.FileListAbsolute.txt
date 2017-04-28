@@ -3,3 +3,8 @@ c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Ma
 c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
 c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\DataStructures\obj\Debug\DataStructures.dll
 c:\users\jose miralles\documents\visual studio 2015\Projects\Algorithm Design Manual in .Net\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\DataStructures\bin\Debug\DataStructures.dll
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\DataStructures\obj\Debug\DataStructures.dll
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\DataStructures\obj\Debug\DataStructures.pdb

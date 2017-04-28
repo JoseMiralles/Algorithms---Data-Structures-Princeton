@@ -2,23 +2,24 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 using static Algorithms.DynamicConnectivity;
+using static Algorithms.AnalysisOfAlgorithms;
 
 namespace Testing
 {
-    [TestClass]
-    public class ExampleTestClass
-    {
-        [TestMethod]
-        //[Ignore]    // Ignore the test
-        [TestCategory("Example")] //Asigned a category
-        [Priority(-1)] //Adds a priority to the test
-        public void ExampleTest()
-        {
-            int answer = 2; //Intended Answer
-            int result = 1 + 2; //Result will equal 3
-            Assert.AreEqual(answer, result); //This fails on purpose
-        }
-    }
+    //[TestClass]
+    //public class ExampleTestClass
+    //{
+    //    [TestMethod]
+    //    //[Ignore]    // Ignore the test
+    //    [TestCategory("Example")] //Asigned a category
+    //    [Priority(-1)] //Adds a priority to the test
+    //    public void ExampleTest()
+    //    {
+    //        int answer = 2; //Intended Answer
+    //        int result = 1 + 2; //Result will equal 3
+    //        Assert.AreEqual(answer, result); //This fails on purpose
+    //    }
+    //}
 
     [TestClass]
     public class UnionfindTests

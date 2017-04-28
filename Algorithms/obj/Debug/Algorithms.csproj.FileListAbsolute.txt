@@ -9,6 +9,6 @@ C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data S
 C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Algorithms\bin\Debug\Algorithms.pdb
 C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Algorithms\bin\Debug\DataStructures.dll
 C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Algorithms\bin\Debug\DataStructures.pdb
-C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
 C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Algorithms\obj\Debug\Algorithms.dll
 C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\Jose Miralles\Documents\Visual Studio 2015\Projects\Algorithms & Data Structures Princeton\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
