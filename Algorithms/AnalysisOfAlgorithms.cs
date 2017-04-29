@@ -52,6 +52,8 @@ namespace Algorithms
 
                 return count;
             }
+
+
         }
 
         public class BinarySearch
@@ -72,12 +74,12 @@ namespace Algorithms
                 int hi = ints.Length - 1;
                 while (lo <= hi)
                 {
-                    int mid = lo + (hi - lo) / 2;
-                    if (target < ints[mid])         hi = mid - 1;
-                    else if (target > ints[mid])    lo = mid + 1;
-                    else                            return mid;
+                    int mid = lo + ((hi - lo) / 2); //This results in the middle item of the remaining range in the array (between hi and lo).
+                    if (target < ints[mid])         hi = mid - 1; //Disregard mid and above.
+                    else if (target > ints[mid])    lo = mid + 1; //Disregard mid and under.
+                    else                            return mid;    //Target found, return the position.
                 }
-                return -1;
+                return -1;  //The target was not in the array.
             }
 
             /// <summary>
